@@ -93,3 +93,4 @@ if __name__ == "__main__":
 
     print(f"\n¡Listo! Se guardaron {len(df)} juegos en '{ruta_salida}'")
     print(f"Número de columnas obtenidas: {df.shape[1]}")
+    
